@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="2" failures="0" name="Prueba tecnica" skipped="0" tests="2" time="63.58" timestamp="2025-09-13 05:41:26"><testcase name="1 - Login en portal web con usuario no existente"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+Bioseguridad.utilities.website.Website.navigateTo(Website.java:14)&#13;
+Bioseguridad.definitions.Logindef.userNavigate(Logindef.java:26)&#13;
+</system-err></testcase><testcase name="2 - realizar un registro nuevo en el portal web"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+Bioseguridad.utilities.website.Website.navigateTo(Website.java:14)&#13;
+Bioseguridad.definitions.Logindef.userNavigate(Logindef.java:26)&#13;
+</system-err></testcase></testsuite>
